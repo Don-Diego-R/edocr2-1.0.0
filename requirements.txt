@@ -16,3 +16,5 @@ tf-keras
 sentence-transformers
 numpy==1.26.4
 pytesseract
+pyautogui
+PyQt5==5.15.11
